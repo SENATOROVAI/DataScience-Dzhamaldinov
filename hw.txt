@@ -9,12 +9,22 @@ Git:
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
 ==================================
 Python (получить сертификат*):
+*Обязательно пользуйся визуализатором https://pythontutor.com/
+Скачать https://t.me/c/1937296927/1/16676 сначала прочитать 85-95стр, потом всё остальное
+
 1)https://karpov.courses/pythonzero
 2)https://stepik.org/course/63085/promo
 3)https://www.kaggle.com/learn/intro-to-programming
 4)https://www.kaggle.com/learn/python
 
-*Обязательно пользуйся визуализатором https://pythontutor.com/
+
+Если любишь книги:
+
+1)скачай https://t.me/c/1937296927/1/18019 и создай два файла в папке Python,
+Перепиши две книги в эти два файла.
+1- posobie.ipynb
+2- byte_of_python.ipynb
+
 =================================
 Аналитика данных на pandas:
 https://edu.sirius.online/#/course/1750 (проходи если открыт)
